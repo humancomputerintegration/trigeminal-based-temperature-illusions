@@ -36,15 +36,11 @@ For ease of replication, a Bill of Materials is included both as a table in the 
 
 Vibrating mesh and ultrasonic transducers are very different nebulizing technologies. Unfortunately, most online suppliers will list VMTs as "ultrasonic transducers", since most people are more familiar with the later term. To help avoid confusion, most VMTs supplied online have two distinguishing characteristics: (1) their operating frequency is in the kilohertz range (110±5 kHz) and (2) they will often have a small dimple at the center of the transducer, which is the aperture (see below: **what you are looking for**).
 
-```
 ![Image of Vibrating Mesh Transducer with aperture label.](https://github.com/humancomputerintegration/trigeminal-based-temperature-illusions/blob/master/Images/VMT_Diagram.jpg)
-```
 
 In contrast, ultrasonic transducers have an operating frequency in the megahertz range (~1-2 MHz) and have a smooth, flat surface with the leads usually soldered to its back (see below: **what you want to _avoid_**).
 
-```
 ![Image of an Ultrasonic Transducer](https://github.com/humancomputerintegration/trigeminal-based-temperature-illusions/blob/master/Images/UT_Diagram.jpg)
-```
 
 ### Calibrating Capillary-Transducer Distance
 
