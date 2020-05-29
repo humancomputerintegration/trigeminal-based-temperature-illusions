@@ -21,7 +21,7 @@ This is a repository for the prototype temperature display in the [Trigeminal-Ba
 
 For ease of replication, a Bill of Materials is included both as a table in the README and a [CSV file]() in the repository. Suppliers can vary by region, especially for the micropumps. Additionally, we had a fairly negative experience with the Grove transducer driver board at first; a number of alternatives are readily available on eBay. 
 
-Note: a fair amount of the budget goes towards micropumps (and their drivers). You can actually probably pull off this sort of design with a more common, off-the-shelf pumps like the AIMELIAE [DC 3V 30kPa pump](https://www.amazon.com/gp/product/B074T95GGX) (~$11.00). You just need to take into consideration that the pump should be driven under-voltage because it'll be way stronger.
+**Micropump alternative(s):** a fair amount of the budget goes towards the Bartels Mikrotechnik micropumps and their drivers. You can actually probably pull off this sort of design with more common, off-the-shelf pumps like the AIMELIAE [DC 3V 30kPa pump](https://www.amazon.com/gp/product/B074T95GGX) (~$11.00). You just need to take into consideration that the pump should be driven under-voltage because it'll be way stronger, and that the enclosure should be modified to allow for more space.
 
 | Part description                   | Specific Part Model                            | Quantity | Possible Supplier                                            | Unit Cost  | Total Cost | Notes                           |
 | ---------------------------------- | ---------------------------------------------- | -------- | ------------------------------------------------------------ | ---------- | ---------- | ------------------------------- |
