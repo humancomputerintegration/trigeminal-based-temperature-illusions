@@ -8,7 +8,7 @@
 
 This is a repository for the prototype temperature display in the [Trigeminal-Based Temperature Illusions]() paper, which received a Best Paper award and was presented at ACM CHI 2020. The device is in fact a 3-channel olfactory interface created by Jas Brooks, Steven Nagels, and Pedro Lopes at the University of Chicago's [Human Computer Integration Lab](https://lab.plopes.org/). The device allows the generation of aerosols and mixtures from three liquid channels, and can be operated wirelessly via the Bluetooth LE protocol. To illicit temperature illusions using this device, see our paper for information on chemical mixtures.
 
-[Preview Video](https://www.youtube.com/watch?v=pH68GNkb_fA) | [CHI Talk Video](https://www.youtube.com/watch?v=-xf-lZFZB-w)
+[Paper](https://lab.plopes.org/published/2020-CHI-trigeminal.pdf) | [Preview Video](https://www.youtube.com/watch?v=pH68GNkb_fA) | [CHI Talk Video](https://www.youtube.com/watch?v=-xf-lZFZB-w)
 
 ## Repository Structure
 
