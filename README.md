@@ -77,6 +77,8 @@ When the device is not in use for long periods of time, it's best to flush all l
 
 ## Licensing & Citing
 
-This documentation describes Open Hardware and is under the GNU General Public License v3.0. When using or building upon this device in an academic publication, please consider citing as follows:
+The Trigeminal-Based Temperature Interface is released under the CERN OHL 2. The interface software is released under the GNU GPL V3. The interface documentation is released under the CC0.
+
+When using or building upon this device in an academic publication, please consider citing as follows:
 
 Jas Brooks, Steven Nagels, and Pedro Lopes. 2020. “Trigeminal-based Temperature Illusions.” In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–12. [DOI:10.1145/3313831.3376806](https://dl.acm.org/doi/abs/10.1145/3313831.3376806)
