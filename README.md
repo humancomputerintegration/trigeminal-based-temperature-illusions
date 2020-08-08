@@ -13,7 +13,7 @@ This is a repository for the prototype temperature display in the [Trigeminal-Ba
 ## Repository Structure
 
 * `Arduino` contains code for the microcontroller (Adafruit Feather nRF52 Bluefruit LE).
-* `Schematic` contains all KiCad files and a PDF version of schematic. Note: there is no PCB to be printed in this case. Jas is currently cleaning the schematic and will upload soon.
+* `Schematic` contains all KiCad files and a PDF version of schematic. Note: there is no PCB to be printed in this case.
 * `3D-prints` contains models for the main enclosure and the tongue that holds the vibrating mesh transducer. These can be printed in regular PLA using an FDM 3D printer.
 * `TrigTempDisplay_Holder.ai` is a vector file to create a quick device holder using a laser cutter and acrylic.
 
