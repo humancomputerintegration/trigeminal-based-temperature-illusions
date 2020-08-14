@@ -76,7 +76,7 @@ When the device is not in use for long periods of time, it's best to flush all l
 
 ## Licensing & Citing
 
-The Trigeminal-Based Temperature Interface is certified open hardware [OSHW US000650 | Certified open source hardware | https://certification.oshwa.org/us000650.html].  released under the CERN OHL 2. The interface software is released under the GNU GPL V3. The interface documentation is released under the CC0.
+The Trigeminal-Based Temperature Interface is certified open hardware ([OSHW US000650](https://certification.oshwa.org/us000650.html "Certified open source hardware")). The interface hardware is released under the CERN OHL 2. The interface software is released under the GNU GPL V3. The interface documentation is released under the CC0.
 
 When using or building upon this device in an academic publication, please consider citing as follows:
 
